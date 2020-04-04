@@ -1,0 +1,1 @@
+fix fizzbuzz due 15 results in Fizz instead FizzBuzz
